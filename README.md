@@ -37,6 +37,6 @@ A decentralized smart contract-based lottery application, where people can parti
 
 1. Run `yarn dev` to see the website which runs on `localhost:3000` port
 
-2. Deploy it on [Fleek](https://fleek.co/)
+2. Deploy it on [Vercel](https://vercel.com/)
 
 # Thank You
