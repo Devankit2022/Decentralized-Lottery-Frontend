@@ -1,6 +1,6 @@
 # Decentralized Lottery Frontend
 
-#### [Live-URL](https://car-hub-devankit.vercel.app/)
+#### [Live-URL](https://decentralized-lottery-devankit.vercel.app/)
 
 ## About The Project
 
